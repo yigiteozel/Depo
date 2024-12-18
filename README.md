@@ -67,7 +67,11 @@
 - BİLLBOARD
 - BLOVE
 - BORDOPLUS
-
+- VALAGRO YİELDON (dolap yanı)/
+- ECOLİA                     ✓
+- EWADEL
+- LİBERATOR
+- AMBARGO
 
 
 
