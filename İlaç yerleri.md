@@ -27,7 +27,6 @@
 - TROYKA
 - KO WİTSHEA
 - FEEDMAX
-- PİX
 - ALBAMİX
 - FİNİTO K
 - MİX COMBİ
